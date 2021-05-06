@@ -1,10 +1,12 @@
-#Introdução-aos-Módulos 
+# Introduction-to-Modules
+
+Modules are code files that we split up to import when needed.
+
+When we are programming, our code can be divided into parts that follow.
 
 
-Módulos são arquivos de código que dividimos para importar quando necessário.
+> REUSABILITY
+ > MAINTENIBILITY
+  >  SEPARATION OF CONTEXTS
 
-Quando estamos programando,nosso código pode ser dividido em partes que permitam.
 
-> REUSABILIDADE
- > MANUTENIBILIDADE
-  > SEPARAÇÃO DE CONTEXTOS
